@@ -8,4 +8,4 @@ Los documentos en los que se desarrolló este trabajo son cuadernos de Jupyter. 
 
 **Nota:** Los enlaces son de acceso público, ya que fueron generados con cuentas personales, lo que permite que cualquier persona ajena a la institución pueda visualizarlos. La separación en 3 links se debe a la separación del trabajo entre los dos integrantes del equipo. El primer enlace contiene los notebooks de los enlaces 2 y 3 unificados, así que con solo abrir ese debería bastar, pero si hay problemas, se pueden abrir por separado los otros dos. 
 
-Ambos códigos incluyen gráficos interactivos que requieren ejecutar el código en su totalidad para su correcta visualización. Además, se recomienda experimentar con los valores sugeridos para una mejor comprensión de los resultados.
+Ambos códigos incluyen gráficos interactivos que *requieren ejecutar el código en su totalidad para su correcta visualización*, es decir, *se debe dar clic a "ejecutar todo" en el notebook*. Además, se recomienda experimentar con los valores sugeridos para una mejor comprensión de los resultados.
